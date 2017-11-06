@@ -3,18 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to jinkawa's documentation!
+陣川プロジェクト資料
 ===================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Documents
+
+   specifications/specification
 
 
-
-Indices and tables
+Index
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
